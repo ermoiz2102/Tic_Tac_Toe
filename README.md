@@ -1,4 +1,3 @@
-# Tic_Tac_Toe
 
 # Tic-Tac-Toe Game - Java with JavaFX Swing
 
@@ -17,10 +16,14 @@ Tie Condition: If all positions on the board are filled and no player has achiev
 
 Restart and Quit: After a game concludes, players have the option to restart and play again or quit the game entirely.
 
-Error Handling: The project includes error handling mechanisms to prevent illegal moves, such as marking a position that is already occupied or playing out of turn.
+
 
 Conclusion:
-This Tic-Tac-Toe Game project, implemented in Java with JavaFX Swing, offers a fun and interactive gaming experience for two players. Its intuitive user interface, win and tie conditions, restart and quit options, and error handling contribute to an engaging gameplay experience. By following the README instructions, users can easily set up and play the game on their local machines.
+This Tic-Tac-Toe Game project, implemented in Java with JavaFX Swing, offers a fun and interactive gaming experience for two players. 
+
+Its intuitive user interface, win and tie conditions, restart and quit options, and error handling contribute to an engaging gameplay experience.
+
+By following the README instructions, users can easily set up and play the game on their local machines.
 
 ![1](https://github.com/ermoiz2102/Tic_Tac_Toe/assets/115916289/66cfb811-1457-438f-8229-b91c5f4b35db)
 ![2](https://github.com/ermoiz2102/Tic_Tac_Toe/assets/115916289/034765cd-ef5f-4cdd-917a-433b90ed4fcc)
