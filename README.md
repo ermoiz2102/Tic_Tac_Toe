@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe Game - Java with JavaFX Swing
 
-**Introduction:
+Introduction:
 The Tic-Tac-Toe Game is a classic two-player board game implemented in Java using the JavaFX Swing library. This project allows two players to compete against each other in a battle of strategy and logic. The game aims to provide a user-friendly interface, engaging gameplay, and the ability to win or achieve a tie.
 
 Features:
